@@ -1,0 +1,56 @@
+# Build folders
+
+bin/
+obj/
+
+# Visual Studio
+
+.vs/
+*.user
+*.suo
+
+# VS Code
+
+.vscode/
+
+# Rider
+
+.idea/
+
+# Logs
+
+Logs/
+*.log
+
+# Test Results
+
+TestResults/
+*.trx
+
+# Publish Output
+
+publish/
+
+# Secrets
+
+appsettings.Development.json
+secrets.json
+
+# OS Files
+
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Coverage Reports
+
+coverage/
+*.coverage
+
+# Environment Files
+
+.env
+
+# Docker Override Files
+
+docker-compose.override.yml
